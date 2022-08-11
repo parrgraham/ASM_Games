@@ -1,5 +1,7 @@
 .global _start
 _start:
+
+#good starting point def can do some work on this
 	
 	.equ HT, 0x7478
 	.equ LT, 0x3878
